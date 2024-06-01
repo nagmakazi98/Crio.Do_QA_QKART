@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-27T18:52:09 IST" name="Gradle suite" finished-at="2023-10-27T18:55:24 IST" duration-ms="195300">
+    <groups>
+      <group name="Regression_Test">
+        <method signature="QKART_Tests.TestCase04()[pri:4, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase04" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase06()[pri:6, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase06" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase07()[pri:7, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase07" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase08()[pri:8, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase08" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase09()[pri:9, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase09" class="QKART_TESTNG.QKART_Tests"/>
+      </group> <!-- Regression_Test -->
+      <group name="Sanity_test">
+        <method signature="QKART_Tests.TestCase01()[pri:1, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase01" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase02()[pri:2, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase02" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase03()[pri:3, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase03" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase05()[pri:5, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase05" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase10()[pri:10, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase10" class="QKART_TESTNG.QKART_Tests"/>
+        <method signature="QKART_Tests.TestCase11()[pri:11, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" name="TestCase11" class="QKART_TESTNG.QKART_Tests"/>
+      </group> <!-- Sanity_test -->
+    </groups>
+    <test started-at="2023-10-27T18:52:09 IST" name="Gradle test" finished-at="2023-10-27T18:55:24 IST" duration-ms="195300">
+      <class name="QKART_TESTNG.QKART_Tests">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:52:06 IST" name="createDriver" finished-at="2023-10-27T18:52:09 IST" duration-ms="2722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="TestCase01()[pri:1, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:52:09 IST" name="TestCase01" finished-at="2023-10-27T18:52:18 IST" duration-ms="9336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase01 -->
+        <test-method signature="TestCase02()[pri:2, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:52:18 IST" name="TestCase02" finished-at="2023-10-27T18:52:19 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase02 -->
+        <test-method signature="TestCase03()[pri:3, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:52:19 IST" name="TestCase03" finished-at="2023-10-27T18:52:54 IST" duration-ms="35174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase03 -->
+        <test-method signature="TestCase04()[pri:4, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:52:54 IST" name="TestCase04" finished-at="2023-10-27T18:53:13 IST" duration-ms="19478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase04 -->
+        <test-method signature="TestCase05()[pri:5, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:53:13 IST" name="TestCase05" finished-at="2023-10-27T18:53:40 IST" duration-ms="26916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase05 -->
+        <test-method signature="TestCase06()[pri:6, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:53:40 IST" name="TestCase06" finished-at="2023-10-27T18:54:18 IST" duration-ms="37854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase06 -->
+        <test-method signature="TestCase07()[pri:7, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:54:18 IST" name="TestCase07" finished-at="2023-10-27T18:54:25 IST" duration-ms="6651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase07 -->
+        <test-method signature="TestCase08()[pri:8, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:54:25 IST" name="TestCase08" finished-at="2023-10-27T18:54:42 IST" duration-ms="17476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase08 -->
+        <test-method signature="TestCase09()[pri:9, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:54:42 IST" name="TestCase09" finished-at="2023-10-27T18:54:50 IST" duration-ms="7996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase09 -->
+        <test-method signature="TestCase10()[pri:10, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:54:50 IST" name="TestCase10" finished-at="2023-10-27T18:54:52 IST" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase10 -->
+        <test-method signature="TestCase11()[pri:11, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:54:52 IST" name="TestCase11" finished-at="2023-10-27T18:55:24 IST" duration-ms="32204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase11 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:QKART_TESTNG.QKART_Tests@5ceeec40]" started-at="2023-10-27T18:55:24 IST" name="quitDriver" finished-at="2023-10-27T18:55:24 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- QKART_TESTNG.QKART_Tests -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
